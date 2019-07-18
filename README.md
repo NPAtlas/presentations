@@ -5,4 +5,4 @@ Presentations on and related to the [The Natural Products Atlas](http://www.npat
 
 #### Dates
 
-* ASP 2019 (July 13-17, 2019) 
+* ASP 2019 - Madison, WI (July 13-17, 2019) 
