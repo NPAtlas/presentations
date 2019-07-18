@@ -1,6 +1,6 @@
 # presentations
 
-Presentations on and related to the [The Natural Products Atlas](npatlas.org)
+Presentations on and related to the [The Natural Products Atlas](http://www.npatlas.org)
 
 
 #### Dates
